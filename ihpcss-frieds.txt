@@ -1,3 +1,4 @@
-Greg	Warsaw
-Kuba	Edinburgh
-Quokka	Western Australia
+Greg	Warsaw	Pizzamaking
+Kuba	Edinburgh	Minecraft	
+Quokka	Western Australia	Debugging
+Bober	Poland	Kurwa
